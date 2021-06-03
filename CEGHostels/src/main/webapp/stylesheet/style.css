@@ -1,0 +1,157 @@
+    .banner {
+    background: #70bf32;
+    background: -moz-linear-gradient(top, #a1e048, #6a942f);
+    background: -ms-linear-gradient(top, #a1e048, #6a942f);
+    background: -o-linear-gradient(top, #a1e048, #6a942f);
+    background: -webkit-linear-gradient(top, #a1e048, #6a942f);
+    background: linear-gradient(top, #a1e048, #6a942f);
+    width: 1252;
+    }
+    .title
+    {
+    text-align : left;
+    text-decoration:underline;
+    color:white;
+    font-family:"urw bookman l";
+    font-size:40px;
+    }
+    .name
+    {
+    text-align : left;
+    color:yellow;
+    font-family:"urw bookman l";
+    font-size:40px;
+    }
+    .warning
+    {
+    text-align : center;
+    color:red;
+    font-size:15px;
+    }    
+    .signoff
+    {
+    text-align : center;
+    color:green;
+    font-size:15px;
+    }
+    a.btn {
+	display: block; width: 200px; height: 30px; padding: 10px 0px 0 10; margin: 0 auto;
+	
+	background: red; /* old browsers */
+	background: -moz-linear-gradient(top, yellowgreen 0%, green 100%); /* firefox */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,yellowgreen), color-stop(100%,green)); /* webkit */
+	
+	box-shadow: inset 0px 0px 6px #fff;
+	-webkit-box-shadow: inset 0px 0px 6px #fff;
+	border: 1px solid green;
+	border-radius: 10px;
+	
+	font: bold 15px/15px Helvetica, Sans-Serif; text-align: left;
+	text-transform: uppercase; text-decoration: none;
+	color: windowtext;
+	text-shadow: 0px 1px 2px #b4d1ad;
+	
+	-moz-transition: color 0.25s ease-in-out;
+	-webkit-transition: color 0.25s ease-in-out;
+	transition: color 0.25s ease-in-out;	
+}
+
+	a.btn:hover {
+		color: greenyellow;
+		
+		-moz-transition: color 0.25s ease-in-out;
+		-webkit-transition: color 0.25s ease-in-out;
+		transition: color 0.25s ease-in-out;
+	}
+
+input, select, textarea
+{
+  font-family: inherit;
+  font-size: inherit;
+}
+
+
+/* Line 397 */
+
+strong
+{
+  color: #222222;
+}
+
+/* Line 1283 */
+.signin-box
+{
+  font-weight: bold;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0.5em;
+  margin-left: 0px;
+  display: block;
+}
+.g-button-submit
+{
+  border-top-width: 1px;
+  border-right-width-value: 1px;
+  border-bottom-width: 1px;
+  border-left-width-value: 1px;
+  border-top-style: solid;
+  border-right-style-value: solid;
+  border-bottom-style: solid;
+  border-left-style-value: solid;
+  border-top-color: #3079ed;
+  border-right-color-value: #3079ed;
+  border-bottom-color: #3079ed;
+  border-left-color-value: #3079ed;
+  color: #ffffff;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+  background-color: #4d90fe;
+}
+.g-button-submit:hover
+{
+  border-top-width: 1px;
+  border-right-width-value: 1px;
+  border-bottom-width: 1px;
+  border-left-width-value: 1px;
+  border-top-style: solid;
+  border-right-style-value: solid;
+  border-bottom-style: solid;
+  border-left-style-value: solid;
+  border-top-color: #2f5bb7;
+  border-right-color-value: #2f5bb7;
+  border-bottom-color: #2f5bb7;
+  border-left-color-value: #2f5bb7;
+  color: #ffffff;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.3);
+  background-color: #357ae8;
+}
+.heading
+{
+    text-align : center;
+    text-decoration:underline;
+    color:black;
+    font-family:"urw bookman l";
+    font-size:20px;
+}
+h1, h2, h3, h4, h5, h6
+{
+  color: #222222;
+  font-size: 1.54em;
+  font-weight: normal;
+  line-height: 24px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0.46em;
+  margin-left: 0px;
+}
+iframe {
+  margin-top: -2px;
+  margin-bottom: 30px;
+
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+
+
+
+ 
+}
