@@ -35,3 +35,10 @@ This is a project on JSP for making hostel management system of CEG Hostels
 • Add room number allocated to students
 
 • Visitor information entry
+
+# User Privileges
+
+• View their hostel information such as the room no and name of the hostel allotted for them.
+
+• View their hostel fee amount and the due date to pay the amount.
+
