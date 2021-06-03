@@ -1,7 +1,7 @@
 # HostelManagementSystem
 This is a project on JSP for making hostel management system of CEG Hostels
 Admin Privileges
-Level 1(main admin):
+#Level 1(main admin):
 • View the entire top level information of database(all tables)
 • Modify the present account
 • Create halls and hall level users
